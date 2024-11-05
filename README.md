@@ -1,5 +1,7 @@
 # Tugas_PROGJAR_flask
 
+Udh ada SQlite / file .db
+
 Klo kata youtube, pas bikin venv sama output terminal dll disarankan pakai bash bukan cmd atau powershell.
 Venv harus dibuat dari 0, karena dia running di localhost
 
